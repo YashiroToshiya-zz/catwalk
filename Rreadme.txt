@@ -5,3 +5,5 @@ Revart　A B C Cを取り消し（逆のコミットが追加される）
 revase　Origin を持ってきて、自分のマスターを追加する
 
 Git.commit
+
+comit amendII
