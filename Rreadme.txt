@@ -6,4 +6,8 @@ revase　Origin を持ってきて、自分のマスターを追加する
 
 Git.commit
 
+<<<<<<< HEAD
 comit amendII
+=======
+comit amend
+>>>>>>> 7ca0e52bf3733fa80d4f16f2df50bd8c6ca24b4f
